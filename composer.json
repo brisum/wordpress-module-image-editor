@@ -1,0 +1,21 @@
+{
+  "name": "brisum/wordpress-module-image-editor",
+  "description": "Wordpress module image editor",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-image-editor",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\ImageEditor\\": "src/"
+    }
+  }
+}
